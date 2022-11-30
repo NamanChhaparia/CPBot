@@ -1,4 +1,4 @@
-# CompetitiveBot
+## CompetitiveBot
 A discord bot which aggregates contestant information like live ranklists, user ratings, solving history etc. from popular competitive programming platforms like
 Codeforces, Topcoder etc. The bot also gives problem recommendations filtered on problem rating and topic tags.
 
@@ -28,4 +28,5 @@ $ mv geckodriver ~/.local/bin
 $ cd Scripts/
 $ python main.py
 ```
-- Thats it!! Your bot must be up and running in the desired server. You can look up the commands by using: ```cp!help```
+- Thats it!! Your bot must be up and running in the desired server.
+- You can look up the commands by using: ```cp!help```
